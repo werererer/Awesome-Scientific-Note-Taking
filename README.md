@@ -35,13 +35,33 @@ https://www.iso.org/standard/71954.html
 - Aristoteles
 - Isagoge: https://archive.org/details/libera-segonds-isagoge-gr-fr-2000 
 
+### Hegelsche Dialektik
+Hegel's Wissenschaft der Logik alle Bänder
+
 # Literature about: How to design software for note takers
 ## Information Retrieval
 - [*Introduction to Information Retrieval* – Manning, Raghavan, & Schütze (2008)] https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf 
 
 [^1]: For further information read the first pages of metaphysics, aristoteles
 
+
+# Selected List of Scientists and Philosophers who prob only got so far because of their Note Taking (Based on Chatgpt, will verify later)
+- Leonardo da Vinci – Codices linking art, anatomy, and engineering
+- Isaac Newton – “Waste Book” with calculus and optics notes
+- Charles Darwin – Transmutation notebooks leading to Origin of Species
+- Marie Curie – Detailed lab journals (still radioactive)
+- Gregor Mendel – Pea plant notebooks forming genetic laws
+- Galileo Galilei – Observational sketches and measurements
+- Michael Faraday – Experimental notebooks on electromagnetism
+- Carl Linnaeus – Taxonomic index cards defining species naming
+- Nikola Tesla – Concept sketches and prototype notes
+- Richard Feynman – Self-learning notebooks (“things I don’t know”)
+- Albert Einstein – Zurich notebooks tracing relativity
+- Ada Lovelace – Extensive annotations forming first algorithm
+- Niklas Luhmann – Zettelkasten system for theory generation
+- G.W.F. Hegel – Dialectical manuscripts and lecture notes as thinking in motion
+
+// TODO verify with sources. Chatgpt is not a reliable source, but a good approximation.
+
 # List of Note Taking Apps
 https://github.com/tehtbl/awesome-note-taking
-
- 
