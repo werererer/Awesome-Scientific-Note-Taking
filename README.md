@@ -13,6 +13,9 @@ Argumentationmining Homepage of http://argumentationmining.disi.unibo.it/publica
 
 Laying the foundations for a World Wide Argument Web https://doi.org/10.1016/j.artint.2007.04.015
 
+## Structure of Texts
+how to read a book https://mathscinotes.com/wp-content/uploads/2016/02/Adler-Mortimer-How-To-Read-A-Book.pdf
+
 ## Knowledge Graphs
 Knowledge Graphs Methodology, Tools and Selected Use Cases
 https://link.springer.com/book/10.1007/978-3-030-37439-6 
@@ -31,12 +34,14 @@ https://www.iso.org/standard/71954.html
 </div>
 
 ## Philosophy
-- Plato
-- Aristoteles
+- Plato, Kratylos
+- Aristoteles, Metaphysics
 - Isagoge: https://archive.org/details/libera-segonds-isagoge-gr-fr-2000 
+- Critique of Pure Reason, Kant
 
-### Hegelsche Dialektik
-Hegel's Wissenschaft der Logik alle Bänder
+### Hegelian Dialectics
+Hegel’s Phenomenology of Spirit
+Hegel’s Science of Logic, all volumes.
 
 # Literature about: How to design software for note takers
 ## Information Retrieval
