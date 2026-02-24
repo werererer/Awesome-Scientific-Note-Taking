@@ -1,7 +1,7 @@
 # Awesome-Scientific-Note-Taking
-The goal is to _iteratively_ collect papers and resources on the science of note-taking. However, since nobody really publishes under the header “note-taking,” the topic must be approached through its representations across various fields.
+The goal is to create a Bibliography that helps to find scientific theoretical foundations for note taking. Theory will help raise note-taking from craft to being an art[^1]. Papers and other resources will be collected _iteratively_. However nobody really publishes under the label “note-taking”. Different Fields have developed their own Terminology. Therefore these representations need to be collected get a more comprehensive view of what note taking can be.
 
-The goal is to create a reading list that gives theoretical foundations for anyone who wants to understand note taking from different scientific view points. To hopefully raise it from being a craft to being an art [^1].
+ [^1].
 
 # Working Definitions
 **Note**: For this repository we will define note as any Text that you write for yourself, or that is written through systems for you, where you build the systems yourself, or connected systems for you.
