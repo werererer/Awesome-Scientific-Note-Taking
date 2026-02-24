@@ -50,8 +50,6 @@ The goal is to create a Bibliography that helps to find scientific theoretical f
   - **Information Retrieval**
     - Manning, Raghavan, & Schütze. (2008). Introduction to Information Retrieval. https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf 
 
-# List of Famous "Note Takers"
-
 # Selected List of Scientists and Philosophers Who Were Enabled by Note-Taking
 | Person | Note-taking artifact / practice | Intellectual function | Link to notes |
 |-------|---------------------------------|-----------------------|--------------|
