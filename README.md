@@ -1,16 +1,16 @@
 # Awesome-Scientific-Note-Taking (Draft)
 The goal is to create a Bibliography that helps to find scientific theoretical foundations for note taking. Theory will help raise note-taking from craft to being an art[^1]. Papers and other resources will be collected _iteratively_. However nobody really publishes under the label “note-taking”. Different Fields have developed their own Terminology. Therefore these representations need to be collected to create a more comprehensive view of what note-taking can be.
 
-# Working Definitions
+## Working Definitions
 **Note**: For this repository we will define note as any Text that you write for yourself, or that is written through systems for you, where you build the systems yourself, or connected systems for you.
 
 **Note taking**: Every action that creates notes.
 
-# Note Taking "Synonyms" across Disciplines
+## Note Taking "Synonyms" across Disciplines
 - Semantic Web: Personal Knowledge Graphs (PKG)
 - Personal Knowledge Management: Personal Knowledge Management (PKM)
 
-# Papers
+## Papers
 - **Argumentation Mining**
   - Argumentationmining Homepage of http://argumentationmining.disi.unibo.it/publications.html
 
@@ -50,7 +50,7 @@ The goal is to create a Bibliography that helps to find scientific theoretical f
   - **Information Retrieval**
     - Manning, Raghavan, & Schütze. (2008). Introduction to Information Retrieval. https://nlp.stanford.edu/IR-book/pdf/irbookonlinereading.pdf 
 
-# Selected List of Scientists and Philosophers Who Were Enabled by Note-Taking
+## Selected List of Scientists and Philosophers Who Were Enabled by Note-Taking
 | Person | Note-taking artifact / practice | Intellectual function | Link to notes |
 |-------|---------------------------------|-----------------------|--------------|
 | Leonardo da Vinci | Codices linking sketches, text, and diagrams | Cross-domain synthesis (art, anatomy, engineering) | |
@@ -70,7 +70,7 @@ The goal is to create a Bibliography that helps to find scientific theoretical f
 
 > TODO verify with sources.
 
-# Category of Awesome Note Taking Lists
+## Category of Awesome Note Taking Lists
 - PKM Note Taking
 https://github.com/tehtbl/awesome-note-taking
 - SPARQL Database
