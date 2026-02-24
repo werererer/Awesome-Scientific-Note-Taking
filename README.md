@@ -1,14 +1,14 @@
-# Awesome-Scientific-Note-Taking
+# Awesome Scientific Note-Taking
 > Status (Draft): Expect typos ;)
 
-The goal is to create a Bibliography that helps to find scientific theoretical foundations for note taking. Theory will help raise note-taking from craft to being an art[^1]. Papers and other resources will be collected _iteratively_. However nobody really publishes under the label “note-taking”. Different Fields have developed their own Terminology. Therefore these representations need to be collected to create a more comprehensive view of what note-taking can be.
+The goal is to create a Bibliography that helps to find scientific theoretical foundations for note-taking. Theory will help raise note-taking from craft to being an art[^1]. Papers and other resources will be collected _iteratively_. However nobody really publishes under the label “note-taking”. Different Fields have developed their own Terminology. Therefore these representations need to be collected to create a more comprehensive view of what note-taking can be.
 
 ## Working Definitions
 **Note**: For this repository we will define note as any Text that you write for yourself, or that is written through systems for you, where you build the systems yourself, or connected systems for you.
 
-**Note taking**: Every action that creates notes.
+**Note-Taking**: Every action that creates notes.
 
-## Note Taking "Synonyms" across Disciplines
+## Note-Taking "Synonyms" across Disciplines
 - Semantic Web: Personal Knowledge Graphs (PKG)
 - Personal Knowledge Management: Personal Knowledge Management (PKM)
 
@@ -72,8 +72,8 @@ The goal is to create a Bibliography that helps to find scientific theoretical f
 
 > TODO verify with sources.
 
-## Category of Awesome Note Taking Lists
-- PKM Note Taking
+## Category of Awesome Note-Taking Lists
+- PKM Note-Taking
 https://github.com/tehtbl/awesome-note-taking
 - SPARQL Database
 https://github.com/semantalytics/awesome-semantic-web?tab=readme-ov-file#databases
